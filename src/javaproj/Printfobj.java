@@ -7,8 +7,8 @@ public class Printfobj {
 		int a =45;
 		double b =  65.34;
 		
-		 float t =  (float) (a+b);
-		int r=30;
+		 int t =  (int) (a+b);
+		int r = 30;
 		int u = 45;
 		int w = r+u ;
 		
