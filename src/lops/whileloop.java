@@ -22,14 +22,7 @@ public class whileloop {
 	         }
 
 	         
-	         {
-	        	 int age = 33;
-	        	 while(age >= 18)
-	        	 {
-		              System.out.println("valid age" + age);
-		              
-	        	 }
-	         }
+	       
 
 		
 	}

@@ -12,7 +12,6 @@ public class Printfobj {
 		int u = 45;
 		int w = r+u ;
 		
-    System.out.println(t);
     System.out.println(w);
 		
 	}
